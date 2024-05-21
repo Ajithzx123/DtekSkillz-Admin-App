@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639247865155",
+    "project_id": "spotserveotp",
+    "storage_bucket": "spotserveotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639247865155:android:f699e72cc4e931012b0bf6",
+        "android_client_info": {
+          "package_name": "spot.serve.customer.spotserve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeCftkr0G7bpaILi6cX95gyj_G0W6-S-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
